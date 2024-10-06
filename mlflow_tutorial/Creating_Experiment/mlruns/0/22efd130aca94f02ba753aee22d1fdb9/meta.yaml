@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/7lhyu/Documents/mlflow-tutorial/mlflow_tutorial/1.%20Creating%20Experiment/mlruns/0/22efd130aca94f02ba753aee22d1fdb9/artifacts
+end_time: 1720593659471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22efd130aca94f02ba753aee22d1fdb9
+run_name: flawless-roo-423
+run_uuid: 22efd130aca94f02ba753aee22d1fdb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720593659430
+status: 3
+tags: []
+user_id: 7lhyu

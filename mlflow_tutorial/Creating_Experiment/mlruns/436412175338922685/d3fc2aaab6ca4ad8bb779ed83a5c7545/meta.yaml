@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/7lhyu/Documents/mlflow-tutorial/mlflow_tutorial/Creating_Experiment/test_mlflow1_artifacts/d3fc2aaab6ca4ad8bb779ed83a5c7545/artifacts
+end_time: 1720596887369
+entry_point_name: ''
+experiment_id: '436412175338922685'
+lifecycle_stage: active
+run_id: d3fc2aaab6ca4ad8bb779ed83a5c7545
+run_name: logging_images
+run_uuid: d3fc2aaab6ca4ad8bb779ed83a5c7545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720596886705
+status: 3
+tags: []
+user_id: 7lhyu

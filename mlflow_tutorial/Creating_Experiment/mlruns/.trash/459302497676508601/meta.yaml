@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/7lhyu/Documents/mlflow-tutorial/mlflow_tutorial/1.
+  Creating Experiment/testing_mlflow01_artifacts
+creation_time: 1720591647873
+experiment_id: '459302497676508601'
+last_update_time: 1720593527425
+lifecycle_stage: deleted
+name: testing_mlflow01
+tags:
+  env: dev
+  version: 1.0.0
